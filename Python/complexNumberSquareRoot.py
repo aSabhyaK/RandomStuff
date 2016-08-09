@@ -26,7 +26,7 @@ def get_input():
         re = float(input("Enter the real part: "));
         im = float(input("Enter the imaginary part: "));
     except:
-        print("Bitch be like givin' me strings now!");
+        print("Why you givin' me strings?");
         
     array.append(re);
     array.append(im);
