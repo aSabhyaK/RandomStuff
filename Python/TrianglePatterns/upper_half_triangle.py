@@ -11,7 +11,6 @@
 max_limit = 5;
 filler = "@";
 
-"""
 for i in range(0, max_limit, 1):
     for j in range(0, max_limit - i - 1, 1):
         print(filler, end='');
@@ -23,9 +22,10 @@ for i in range(0, max_limit, 1):
     for l in range(0, max_limit - i - 1, 1):
         print(filler, end='');
     print();
-"""
 
 #approach 2
+#doesn't work as of now
+"""
 twice = 2 * max_limit - 1;
 
 for i in range(0, max_limit, 1):
@@ -37,3 +37,4 @@ for i in range(0, max_limit, 1):
             for k in range(j, j + )
             print("*", end='');
     print();
+"""
