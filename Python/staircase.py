@@ -4,7 +4,7 @@ def checkIfStaircase(number):
     
     start = int(n[0]);
     end = int(n[length - 1]);
-    
+     
     return start * start + end * end == int(n[1:length - 1]);
     
 lower_limit = 10000;
