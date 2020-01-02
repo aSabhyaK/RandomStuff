@@ -1,3 +1,2 @@
 # RandomStuff
-Codes to stumbled upon problems
- 
+Solutions to stumbled upon problems.
